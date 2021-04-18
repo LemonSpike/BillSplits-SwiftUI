@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfe3cad2-5e5a-423b-bca5-b679a9c70bb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WeSplit/ArrayOfLoopView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeSplit/BindingStateToView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeSplit/ModifyingStateView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeSplit/ReadingTextField.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeSplit.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/WeSplit.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeSplit/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/WeSplit/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeSplit/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/WeSplit/ContentView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeSplit/SceneDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/WeSplit/SceneDelegate.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_6A76D4C6-E2A8-4BDD-B59B-2414C68F379A" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kbTrm6Eoaf2lpP9Ymo9dc5TVri" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfe3cad2-5e5a-423b-bca5-b679a9c70bb8" name="Default Changelist" comment="" />
+      <created>1605968496982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605968496982</updated>
+      <workItem from="1605968498338" duration="290000" />
+      <workItem from="1605975321752" duration="281000" />
+      <workItem from="1605983094646" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

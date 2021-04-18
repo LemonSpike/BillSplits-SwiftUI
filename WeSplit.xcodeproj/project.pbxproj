@@ -13,6 +13,11 @@
 		E250039A24B9F58900668971 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E250039924B9F58900668971 /* Assets.xcassets */; };
 		E250039D24B9F58900668971 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E250039C24B9F58900668971 /* Preview Assets.xcassets */; };
 		E25003A024B9F58900668971 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E250039E24B9F58900668971 /* LaunchScreen.storyboard */; };
+		FD4CB349254F1AD400BDCCA2 /* ModifyingStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4CB348254F1AD400BDCCA2 /* ModifyingStateView.swift */; };
+		FD4CB34C254F1C2C00BDCCA2 /* BindingStateToView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4CB34B254F1C2C00BDCCA2 /* BindingStateToView.swift */; };
+		FD4CB34F254F1DD900BDCCA2 /* ArrayOfLoopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD4CB34E254F1DD900BDCCA2 /* ArrayOfLoopView.swift */; };
+		FD8ADC6D2569588D0023DA8F /* ReadingTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD8ADC6C2569588D0023DA8F /* ReadingTextField.swift */; };
+		FDF91D642611444700877D54 /* SegmentedControlTips.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDF91D632611444700877D54 /* SegmentedControlTips.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		E250039C24B9F58900668971 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E250039F24B9F58900668971 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E25003A124B9F58900668971 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD4CB348254F1AD400BDCCA2 /* ModifyingStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifyingStateView.swift; sourceTree = "<group>"; };
+		FD4CB34B254F1C2C00BDCCA2 /* BindingStateToView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingStateToView.swift; sourceTree = "<group>"; };
+		FD4CB34E254F1DD900BDCCA2 /* ArrayOfLoopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayOfLoopView.swift; sourceTree = "<group>"; };
+		FD8ADC6C2569588D0023DA8F /* ReadingTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingTextField.swift; sourceTree = "<group>"; };
+		FDF91D632611444700877D54 /* SegmentedControlTips.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControlTips.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +69,11 @@
 				E250039324B9F58700668971 /* AppDelegate.swift */,
 				E250039524B9F58700668971 /* SceneDelegate.swift */,
 				E250039724B9F58700668971 /* ContentView.swift */,
+				FD4CB348254F1AD400BDCCA2 /* ModifyingStateView.swift */,
+				FD4CB34B254F1C2C00BDCCA2 /* BindingStateToView.swift */,
+				FD4CB34E254F1DD900BDCCA2 /* ArrayOfLoopView.swift */,
+				FD8ADC6C2569588D0023DA8F /* ReadingTextField.swift */,
+				FDF91D632611444700877D54 /* SegmentedControlTips.swift */,
 				E250039924B9F58900668971 /* Assets.xcassets */,
 				E250039E24B9F58900668971 /* LaunchScreen.storyboard */,
 				E25003A124B9F58900668971 /* Info.plist */,
@@ -147,8 +162,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				E250039424B9F58700668971 /* AppDelegate.swift in Sources */,
+				FD8ADC6D2569588D0023DA8F /* ReadingTextField.swift in Sources */,
+				FDF91D642611444700877D54 /* SegmentedControlTips.swift in Sources */,
+				FD4CB349254F1AD400BDCCA2 /* ModifyingStateView.swift in Sources */,
 				E250039624B9F58700668971 /* SceneDelegate.swift in Sources */,
+				FD4CB34F254F1DD900BDCCA2 /* ArrayOfLoopView.swift in Sources */,
 				E250039824B9F58700668971 /* ContentView.swift in Sources */,
+				FD4CB34C254F1C2C00BDCCA2 /* BindingStateToView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
